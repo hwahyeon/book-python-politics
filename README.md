@@ -1,20 +1,24 @@
 # 정치학을 위한 파이썬
 
-* 책을 읽으며 공부한 내용을 요약하고 실습하였음.
-* Python3을 사용하였음.
+`Python` 
 
-### 정보
-* 저자 : 엄기홍
+## 개요
 
-### 목적
-* 프로그래밍의 사회과학적 활용
+이 저장소는 **정치학을 위한 파이썬**의 학습 내용을 정리하고 있습니다.
 
+<img src="./assets/cover.jpg" alt="Cover" width="200">
 
-### 목차
+> 엄기홍
+
+## 학습 목표
+- 프로그래밍의 사회과학적 활용
+
+## 학습 내용
 |No|목차|비고|
 |---|---|---|
 |01|정치학과 파이썬|정리 내용 없음|
-|02|[파이썬 기본 문법](https://github.com/hwahyeon/politics_py/blob/main/02.ipynb)||
-|03|[웹 스크랩핑을 통한 데이터 수집](https://github.com/hwahyeon/politics_py/blob/main/03.ipynb)||
-|04|[API를 통한 데이터 수집](https://github.com/hwahyeon/politics_py/blob/main/04.ipynb)||
-|05|[빅데이터 시각화와 분석](https://github.com/hwahyeon/politics_py/blob/main/05.ipynb)||
+|02|[파이썬 기본 문법](./02.ipynb)||
+|03|[웹 스크랩핑을 통한 데이터 수집](./03.ipynb)||
+|04|[API를 통한 데이터 수집](./04.ipynb)||
+|05|[빅데이터 시각화와 분석](./05.ipynb)||
+
